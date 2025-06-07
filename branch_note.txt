@@ -10,3 +10,12 @@ Le git pull permet de recuperer les modif distante sur un projet
 le rebase recupere els modification et les ajoutes en dessous 
 
 les modification de la branche mere sont placer en dessous des modification de la branche courante et donc les modification de la branche courante sont au dessus de la branche mere
+en gros le git merge permet de recuperer les donnees de la fille vers la mere 
+et le rebase permet de recuperer les donnees de la mere vers les filles 
+
+on peut faire le commit -am pour add et commit en une fois 
+
+pour supprimer un commit on fait git reset --hard shaone du commit puis on fait un git pull pour recupere les derniere modif , puis un git push --force pour ecraser le dernier commit present sur la branche 
+le git reset permet aussi de revenir a un commit precis grace a son shaone 
+
+le git diff permet de voir les differences entre 2 commit 
