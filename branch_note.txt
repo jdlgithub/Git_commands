@@ -1,0 +1,6 @@
+
+le main est une branche et une branche eest un repertoire 
+la bnne pratique est de cree des branches 
+git branch nom_branch  pour la creation de la branche 
+pour swicher d'une brach a l'autre on utilize git checkout nom_branch 
+git branch ppur voir sur quelle branch on se trouve 
