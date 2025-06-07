@@ -10,3 +10,5 @@ le git add permet d'ajouter des fichier ou modification dans le stagging
 le git commit permrt d'enregistrer les modif avec message important en local 
 le git push permet de push les modification sur le repo distant
 le git status permet de lister les modifications a traités et permet uassi de verifier le status du repertoire
+git log permet de voir l'ensemble des modification effectuer
+de manière compact c'est le git log --oneline
